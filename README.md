@@ -1,6 +1,6 @@
-## Paradigmas: Funcional
+# Paradigmas: Funcional
 
-# como usar
+## como usar
 para a implementação python apenas rode o arquivo main.py
 ** bash
 python3 main.py
