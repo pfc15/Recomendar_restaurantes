@@ -12,7 +12,7 @@
 
 ## Sobre 
 
-Este projeto é uma pequena implementação de um bot de recomendação de lugares para almoçar perto da UnB. Ele utiliza o algorítimo de Knapsack e desencoraja ir para o mesmo lugar várias vezes. Adicione resutaurantes novos no csv com as colunas "nome", "felicidade" e "preco" respectivamente.
+Este projeto é uma pequena implementação de um bot de recomendação de lugares para almoçar perto da UnB. Ele cria uma pequena rotina para você tentando maximizar o seu gosto e a variedade. Ele utiliza o algorítimo de Knapsack e desencoraja ir para o mesmo lugar várias vezes. Você pode Adicionar novos resutaurantes ou trocar os gostos no csv com as colunas "nome", "felicidade" e "preco" respectivamente.
 
 
 ## Screenshots
