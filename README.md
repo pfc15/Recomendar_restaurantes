@@ -47,7 +47,7 @@ ghc main.hs
 
 ## Vídeo
 Vídeo com a explicação e execução do projeto:
-[Apresentação]()
+[Apresentação](imagens/Screencast 2024-11-11 23:03:31.mp4)
 
 
 ### Lições Aprendidas
